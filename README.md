@@ -1,8 +1,8 @@
-# Asteroids Learning ([Demo](https://zoeweinberg.github.io/AsteroidsLearning/))
+# Asteroids Learning ([Demo](https://kensel.github.io/AsteroidsLearning/))
 
 Program that learns to avoid Asteroids by machine learning. The operation is almost the same as [Flappy Learning](https://github.com/xviniette/FlappyLearning) with 16 sensors of distance all around the ship.
 
-![alt tag](https://github.com/xviniette/AsteroidsLearning/blob/gh-pages/img/asteroidlearning.png?raw=true)
+![alt tag](https://github.com/kensel/AsteroidsLearning/blob/gh-pages/img/asteroidlearning.png?raw=true)
 
 ## In This Fork
 - ReLU activation function for better learning (however, the pre-trained robots are unaccustomed to it, so give them about 40 generations to show ReLU's improvement)
@@ -15,8 +15,8 @@ Program that learns to avoid Asteroids by machine learning. The operation is alm
 - Trained network sample included
 
 ### Extra
-- [Network Viewer](https://vcasagrande.github.io/AsteroidsLearning/viewer.html)
-- [Interactive Mode](https://vcasagrande.github.io/AsteroidsLearning/test.html)
+- [Network Viewer](https://kensel.github.io/AsteroidsLearning/viewer.html)
+- [Interactive Mode](https://kensel.github.io/AsteroidsLearning/test.html)
 
 ### Notes
 - Tested with Google Chrome and Mozilla Firefox
