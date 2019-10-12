@@ -271,7 +271,7 @@ var Game = function() {
 
   this.spawnInterval = 10;//120;
   this.interval = 0;
-  this.maxAsteroids = 8;
+  this.maxAsteroids = 12;
 
   this.gen = [];
 
